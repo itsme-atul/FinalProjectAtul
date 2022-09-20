@@ -1,42 +1,37 @@
 # Future Ready Talent project
 This is my project for future ready talent microsoft of a food blog website.
 
-## link for my website https://proud-sand-022f7b210.1.azurestaticapps.net/
+## link for my website https://brave-tree-013a46310.1.azurestaticapps.net/
 
 ## Screenshots of My website
+![image](https://user-images.githubusercontent.com/111895495/191278820-b7a4669e-342e-4226-87d3-fa7a77b898d2.png)
+![image](https://user-images.githubusercontent.com/111895495/191278849-9c70830b-c902-48f0-913a-a115dc9dda55.png)
+![image](https://user-images.githubusercontent.com/111895495/191278883-075fe9d3-0e44-4662-884f-41323922e619.png)
+![image](https://user-images.githubusercontent.com/111895495/191278909-3c50acb7-fcb9-4d49-87c4-33a5f9382cd7.png)
+![image](https://user-images.githubusercontent.com/111895495/191278941-ad66b9eb-61e3-40aa-a55d-a521edb7644a.png)
+![image](https://user-images.githubusercontent.com/111895495/191278969-3fba0187-0922-4129-b3a0-321d53403334.png)
+![image](https://user-images.githubusercontent.com/111895495/191278994-6ca06b25-b289-4c83-8f67-7452ab33d40d.png)
+![image](https://user-images.githubusercontent.com/111895495/191279028-38da3f42-8750-4de0-9b51-c2818187b00b.png)
+![image](https://user-images.githubusercontent.com/111895495/191279047-eeb4e674-86d9-4bc1-83bf-180ae5906395.png)
 
-![image](https://user-images.githubusercontent.com/111895495/191269557-a791b943-6a68-4e32-ae1d-1aedaec5c7c5.png)
-![image](https://user-images.githubusercontent.com/111895495/191269588-13062bac-2a2a-4ebe-a7d8-0415310ab204.png)
-![image](https://user-images.githubusercontent.com/111895495/191269702-2216c313-d493-4ef9-957d-a1ae04d9ac5c.png)
-![image](https://user-images.githubusercontent.com/111895495/191269768-b869fac9-edb8-4efa-8498-bdeb86623ac7.png)
-![image](https://user-images.githubusercontent.com/111895495/191269789-e5d68009-49dd-4c1f-90c8-c7ca488301ea.png)
-![image](https://user-images.githubusercontent.com/111895495/191269809-8d1876fe-0c6a-4978-bf91-2e59deb42942.png)
-![image](https://user-images.githubusercontent.com/111895495/191269855-86c8bc13-1592-4875-b7c9-a9362739c193.png)
-![image](https://user-images.githubusercontent.com/111895495/191269872-a45742db-5b9d-47c6-9a5a-e1fff7afe4c6.png)
-![image](https://user-images.githubusercontent.com/111895495/191269888-14918f25-1460-4db2-bc71-6db8e9e78185.png)
-![image](https://user-images.githubusercontent.com/111895495/191269907-a1fa4eb1-0ea6-47d8-820f-b967214d92ab.png)
+## About
+![image](https://user-images.githubusercontent.com/111895495/191279103-3b03ce66-8922-49f0-97a2-b9444ad9350d.png)
+![image](https://user-images.githubusercontent.com/111895495/191279136-2dc2204a-f194-4d20-81ad-3c38cfb3de5e.png)
+![image](https://user-images.githubusercontent.com/111895495/191279166-2174ccec-2c71-4be9-a2be-e92b72649f05.png)
+![image](https://user-images.githubusercontent.com/111895495/191279190-5ee664de-6a79-4467-b444-fbfbbaeccd64.png)
+![image](https://user-images.githubusercontent.com/111895495/191279201-40ffc317-b6d7-4969-88b2-59d5d5d7cd69.png)
+![image](https://user-images.githubusercontent.com/111895495/191279215-c2f89df1-5233-40fa-ad32-82a899fb6280.png)
+![image](https://user-images.githubusercontent.com/111895495/191279231-fe41ac4b-6f95-495b-9eca-b140ed5ea016.png)
+![image](https://user-images.githubusercontent.com/111895495/191279248-9de38ffe-c618-4c91-bd3a-51273a97b94b.png)
 
-## About Us
-
-![image](https://user-images.githubusercontent.com/111895495/191269979-43074e8f-8374-4dea-9ecd-5a3bcbe4eeec.png)
-![image](https://user-images.githubusercontent.com/111895495/191270013-83f50ba9-78f2-452c-a073-1bd1855a227c.png)
-![image](https://user-images.githubusercontent.com/111895495/191270079-822e70ee-2378-4cb6-9dab-cc8d37f74a0c.png)
-![image](https://user-images.githubusercontent.com/111895495/191270095-b71e0d9e-82db-465c-aa8b-4fbb67ee880f.png)
-![image](https://user-images.githubusercontent.com/111895495/191270115-c0852f44-a5f4-44c1-bc7f-cb330a3b6711.png)
-![image](https://user-images.githubusercontent.com/111895495/191270130-dd45be49-1280-42f5-afd9-5428ba4d2687.png)
-![image](https://user-images.githubusercontent.com/111895495/191270154-c85f40a9-3389-45d4-a1b2-f947c570c659.png)
-![image](https://user-images.githubusercontent.com/111895495/191270175-fd9aa3db-492f-4a5a-a2f0-c8710926542d.png)
-![image](https://user-images.githubusercontent.com/111895495/191270188-dc9f000a-82a8-4953-9181-e6fe48aa404e.png)
 
 ## Contact
-
-![image](https://user-images.githubusercontent.com/111895495/191270245-f468ac9c-5dbb-45ed-b1ee-08e97abfd366.png)
-![image](https://user-images.githubusercontent.com/111895495/191270266-8ceb0e1f-9cc3-4eae-afb8-848a73b2c125.png)
-![image](https://user-images.githubusercontent.com/111895495/191270299-1e1b2884-2e49-4e47-bead-70bb18cbd03f.png)
-![image](https://user-images.githubusercontent.com/111895495/191270354-54458f89-b23c-4a08-a417-a87d895c1ce0.png)
+![image](https://user-images.githubusercontent.com/111895495/191279338-37d17afe-0756-418c-b183-9be9782ab07a.png)
+![image](https://user-images.githubusercontent.com/111895495/191279356-86c26097-2a1b-4ddf-96d8-0c7607d43804.png)
+![image](https://user-images.githubusercontent.com/111895495/191279372-e9cf1662-143a-4f1d-8274-795b72f05d92.png)
+![image](https://user-images.githubusercontent.com/111895495/191279397-609d137f-f746-4744-bd40-de51cfc9c2d3.png)
 
 ## Search
 
-![image](https://user-images.githubusercontent.com/111895495/191270457-c2a7bd03-5f42-4398-9fe8-59318b2aa5ea.png)
-
+![image](https://user-images.githubusercontent.com/111895495/191279458-cbac323c-d409-4626-853a-1e075482ae46.png)
 
